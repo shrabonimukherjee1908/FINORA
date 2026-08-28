@@ -135,9 +135,3 @@ Right click `index.html` and click **"Open with Live Server"**.
 - **Offline First**: All assets and fonts are local/fallbacked. Once loaded, it functions 100% offline.
 - **Data Retention**: Your financial records remain strictly within your device's browser sandbox.
 
----
-
-## 📄 License
-
-MIT License — Feel free to use this project for your portfolio, applications, and personal finance management!
-
